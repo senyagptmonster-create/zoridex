@@ -30,7 +30,7 @@ flutter:
     - assets/json/
 
   fonts:
-    - family: AppFont
+    - family: Orbitron
       fonts:
         - asset: assets/fonts/Orbitron-Bold.ttf
 
