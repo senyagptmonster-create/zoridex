@@ -1,8 +1,7 @@
-﻿import 'package:flutter/material.dart';
-
+import 'package:flutter/material.dart';
 import 'zoridex_app.dart';
 
-void main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const ZoridexApp());
 }
